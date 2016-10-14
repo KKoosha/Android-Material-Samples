@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialLearning</string>
+    <string name="openDrawer">Drawer is Open</string>
+    <string name="closeDrawer">Drawer si close</string>
+</resources>
